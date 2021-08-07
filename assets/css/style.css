@@ -88,6 +88,7 @@ footer h2{
     font-size: 20px;
 }
 
+/*Displays image in the top of page*/
 .hero {
     height: 800px;
     width: 100%;
@@ -97,16 +98,19 @@ footer h2{
     background-position: center;
 }
 
+/*Sets images to the left of the text*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Sets images to the right of the text*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*Sets the size of the content*/
 .content {
     width: 75%;
     display: inline-block;
